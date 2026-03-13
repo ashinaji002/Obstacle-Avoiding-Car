@@ -6,8 +6,7 @@
 // To Install the libraries go to sketch >> Include Library >> Add .ZIP File >> Select the Downloaded ZIP files From the Above links //
 
 
-
-#include <NewPing.h>
+#include <AFMotor.h>
 #include <Servo.h> 
 
 #define TRIG_PIN A0 
